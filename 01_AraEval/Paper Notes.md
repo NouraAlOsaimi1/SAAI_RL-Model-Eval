@@ -104,8 +104,10 @@ Ministry-specific terminology.
 
 It measures general Arabic capabilities, not domain expertise.
 
-Relation to Our Project?!
-Our project starts from Qwen3.5-4B.
+
+
+**Relation to Our Project?!
+Our project starts from Qwen3.5-4B.**
 
 Before changing the model, we need to understand:
 
