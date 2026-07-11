@@ -1,5 +1,5 @@
-**AraEval: An Arabic Multi-Task Evaluation Suite for Large Language Models
-**
+AraEval: An Arabic Multi-Task Evaluation Suite for Large Language Models
+
 1. Authors
 Alhanoof Althnian, Norah A. Alzahrani, Shaykhah Z. Alsubaie, Eman Albilali, Ahmed Abdelali, Nouf M. Alotaibi, M Saiful Bari, Yazeed Alnumay, Abdulhamed Alothaimen, Maryam Saif, Shahad D. Alzaidi, Faisal Abdulrahman Mirza, Yousef Almushayqih, Mohammed Al Saleem, Ghadah Alabduljabbar, Abdulmohsen Al-Thubaity, Areeb Alowisheq, and Nora Al-Twairesh  
 (Collaborative effort between HUMAIN, the Saudi Data and AI Authority (SDAIA), and King Saud University)
