@@ -7,7 +7,7 @@ Alhanoof Althnian, Norah A. Alzahrani, Shaykhah Z. Alsubaie, Eman Albilali, Ahme
 2. Year : 2025 (Presented at EMNLP 2025)
 
 3. Main Goal
-To introduce a native, comprehensive evaluation suite that rigorously measures the advanced cognitive and functional capabilities of foundation models—specifically focusing on knowledge retention, logical reasoning, truthfulness, and instruction-following within the Arabic language and cultural context.
+To introduce a native, comprehensive evaluation suite that rigorously measures the advanced cognitive and functional capabilities of foundation models specifically focusing on knowledge retention, logical reasoning, truthfulness, and instruction-following within the Arabic language and cultural context.
 
 4.Why was AraEval created?
 Existing evaluation suites for Arabic LLMs heavily relied on translated English benchmarks (such as translated MMLU) or limited knowledge-based question answering datasets. These existing benchmarks suffered from:
