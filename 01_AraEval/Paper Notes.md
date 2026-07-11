@@ -3,7 +3,9 @@ AraEval: An Arabic Multi-Task Evaluation Suite for Large Language Models
 1. Authors
 Alhanoof Althnian, Norah A. Alzahrani, Shaykhah Z. Alsubaie, Eman Albilali, Ahmed Abdelali, Nouf M. Alotaibi, M Saiful Bari, Yazeed Alnumay, Abdulhamed Alothaimen, Maryam Saif, Shahad D. Alzaidi, Faisal Abdulrahman Mirza, Yousef Almushayqih, Mohammed Al Saleem, Ghadah Alabduljabbar, Abdulmohsen Al-Thubaity, Areeb Alowisheq, and Nora Al-Twairesh  
 (Collaborative effort between HUMAIN, the Saudi Data and AI Authority (SDAIA), and King Saud University)
+
 2. Year : 2025 (Presented at EMNLP 2025)
+
 3. Main Goal
 To introduce a native, comprehensive evaluation suite that rigorously measures the advanced cognitive and functional capabilities of foundation models—specifically focusing on knowledge retention, logical reasoning, truthfulness, and instruction-following within the Arabic language and cultural context.
 
@@ -18,12 +20,14 @@ Narrow Evaluation Scope: Focus on simple factual recall rather than complex reas
 
 AraEval was created from scratch to provide a native Arabic benchmark reflecting the linguistic, cultural, and normative nuances of Arabic-speaking communities.
 
+
 5. What problem does it solve?
 Language Disparity & Bias: Overcomes the heavy bias toward English and high-resource languages in LLM benchmarks.
 
 Evaluation Reliability: Replaces translated benchmark noise with native, high-quality Arabic data.
 
 Diagnostic Granularity: Solves the inability of simple accuracy metrics to pinpoint why a model fails (e.g., whether it struggles with logical inference, math, factual hallucination, or prompt structure).
+
 6. Main Contributions
 Large-Scale Native Dataset: Created 24,378 novel, native Arabic samples across multiple key evaluation dimensions.
 
@@ -50,6 +54,7 @@ Exact Match (EM) and compliance scoring for instruction-following tasks.
 
 Diagnostic Performance Profiles: Sub-domain task performance breakdown to measure model balance across capability dimensions.
 
+
 9. How is the benchmark organized?
 The benchmark is hierarchically structured into 4 core evaluation pillars:
 
@@ -62,6 +67,7 @@ Truthfulness
 Instruction-Following
 
 Each pillar is sub-divided into multi-task evaluation sets covering domain-specific subjects and task types.
+
 
 10. How many datasets?
 A unified suite composed of multi-task evaluation sets spanning the 4 major pillars and across diverse subject domains (science, history, religion, mathematics, logic, etc.).
@@ -98,8 +104,7 @@ Ministry-specific terminology.
 
 It measures general Arabic capabilities, not domain expertise.
 
-**Relation to Our Project?!
-**  
+Relation to Our Project?!
 Our project starts from Qwen3.5-4B.
 
 Before changing the model, we need to understand:
