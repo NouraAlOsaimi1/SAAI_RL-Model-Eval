@@ -1,0 +1,9 @@
+============================================================
+AraMath Evaluation Report
+============================================================
+
+Model : Qwen/Qwen3.5-4B
+Benchmark : AraMath
+Samples : 605
+Accuracy : 0.6893
+Average Runtime : 1.045 sec
