@@ -1,0 +1,9 @@
+============================================================
+AraPro Evaluation Report
+============================================================
+
+Model: Qwen/Qwen3.5-4B
+Benchmark: AraPro
+Samples: 5001
+Accuracy: 0.6609
+Average Runtime: 0.335 sec

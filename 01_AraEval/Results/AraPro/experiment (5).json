@@ -1,0 +1,12 @@
+{
+    "model": "Qwen/Qwen3.5-4B",
+    "model_stage": "Base",
+    "benchmark": "AraPro",
+    "dataset": "humain-ai/AraPro",
+    "split": "test",
+    "temperature": 0.0,
+    "max_new_tokens": 8,
+    "samples": 5001,
+    "gpu": "T4 GPU",
+    "date": "2026-07-14 12:32:42"
+}
