@@ -1,0 +1,12 @@
+{
+    "model": "Qwen/Qwen3.5-4B",
+    "model_stage": "Base",
+    "benchmark": "AraTrust",
+    "dataset": "asas-ai/AraTrust",
+    "split": "test",
+    "temperature": 0.0,
+    "max_new_tokens": 8,
+    "samples": 522,
+    "device": "T4 GPU",
+    "date": "2026-07-13 20:01:38"
+}

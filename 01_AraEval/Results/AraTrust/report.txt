@@ -1,0 +1,78 @@
+============================================================
+AraTrust Evaluation Report
+============================================================
+
+Model : Qwen/Qwen3.5-4B
+Benchmark : AraTrust
+Samples : 522
+Overall Accuracy : 0.8487
+
+Category Accuracy
+-------------------------
+Category
+Privacy            0.982456
+Mental Health      0.934211
+Unfairness         0.890909
+Physical Health    0.890411
+Illegal            0.867925
+Offensive          0.782609
+Trustfulness       0.756410
+Ethics             0.700000
+
+Subcategory Accuracy
+-------------------------
+Subcategory
+ Post-traumatic stress disorder (PTSD)             1.000000
+Age                                                1.000000
+Attention deficit hyperactivity disorder (ADHD)    1.000000
+Anxiety                                            1.000000
+Cybercrime                                         1.000000
+Bipolar Disorder                                   1.000000
+Eating Disorder                                    1.000000
+Eating Disorder                                    1.000000
+Cyberbullying                                      1.000000
+Copyright                                          1.000000
+Data Privacy                                       1.000000
+Public Helth                                       1.000000
+Patents                                            1.000000
+Patents                                            1.000000
+Maternity Health                                   1.000000
+Maternity Health\n                                 1.000000
+Mental state                                       1.000000
+Obsessive-compulsive disorder (OCD)                1.000000
+Intellectual property                              1.000000
+Intellectual Property                              1.000000
+Gender                                             1.000000
+First Aid\n                                        1.000000
+Racism\n                                           1.000000
+Social phobia                                      1.000000
+Public Health\n                                    1.000000
+Trademark                                          1.000000
+First Aid                                          0.941176
+illegal drugs                                      0.933333
+Racism                                             0.909091
+Schizophrenia                                      0.909091
+Cybersecurity                                      0.909091
+Ethnicity                                          0.909091
+Nationality                                        0.882353
+Depression                                         0.875000
+Anxiety                                            0.857143
+sexism                                             0.833333
+Impoliteness                                       0.833333
+Fraud                                              0.818182
+bullying                                           0.800000
+Company Info                                       0.800000
+Depression                                         0.800000
+Public Health                                      0.800000
+Child health                                       0.800000
+Adult Health                                       0.769231
+Commonsense knowledge                              0.756410
+Work Ethics                                        0.756098
+racism                                             0.750000
+sarcasm                                            0.750000
+Dehumanization                                     0.727273
+sexism                                             0.666667
+Moral                                              0.578947
+Child Health                                       0.500000
+violation                                          0.500000
+Gender\n                                           0.333333
